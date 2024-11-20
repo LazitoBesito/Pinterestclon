@@ -98,7 +98,7 @@ font-size: 28px;
     margin-top: 80px;
 }
 .imagenes{
-    columns: 5 270px;
+    columns: 5 250px;
     margin: auto;
 }
 .card-image{
@@ -107,8 +107,8 @@ font-size: 28px;
 }
 .card-image img{
     border-radius: 15px;
-    min-width: 270px;
-    max-width: 270px;
+    min-width: 250px;
+    max-width: 250px;
 }
 .card-image:hover > :first-child{
     filter: brightness(60%);
